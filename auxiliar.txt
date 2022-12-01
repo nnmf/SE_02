@@ -1,0 +1,4 @@
+Steam,Skyrim,Discord,MediaPlayer
+Bender,Skype,Whatsapp
+explorer,epic,uplay,word
+chrome,firefox,pycharm
