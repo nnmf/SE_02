@@ -1,8 +1,9 @@
 from queue import PriorityQueue
+#estou importando uma lista de prioridade nativa do python
 import random
 
 from manipulacao import media
-#estou importando uma lista de prioridade nativa do python
+
 
 from util import arrayToString
 
